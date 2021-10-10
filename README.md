@@ -4,7 +4,6 @@ _typing-game_ is a simple typing game meant to entertain and pass the time.
 ## Table of Contents
 * [Description](#Description)
 * [Project Progress](#Project-Progress)
-* [How to use this](#How-to-use-this)
 * [Technologies Used](#Technologies-Used)
 * [License](#License)
 
